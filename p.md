@@ -18,5 +18,9 @@
 
 <http://lll>
 
-[plop](http://lll)
+[plop](Designer announcement.jpg)
 
+![](Designer announcement.jpg)
+<div>
+<img src='Designer announcement.jpg' style='width:20%; height:10%;' />
+</div>
