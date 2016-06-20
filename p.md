@@ -19,6 +19,7 @@
 <http://lll>
 
 [plop](Designer announcement.jpg)
+[b](https://upload.wikimedia.org/wikipedia/commons/3/32/House_sparrow04.jpg)
 
 ![](Designer announcement.jpg)
 <div>
